@@ -1,4 +1,0 @@
-slate
-=====
-
-slate file
